@@ -2,7 +2,7 @@
 
 > **Iğdır Üniversitesi** | Bilgisayar Mühendisliği Bölümü  
 > Veri Yapıları II Final Projesi — 2025–2026 Bahar Dönemi  
-> **Öğrenci:** Bedirhan ATABAY (2301050037)  
+> **Öğrenci:** Mihat Bayram
 > **Öğretim Üyesi:** Prof. Dr. İhsan Ömür BUCAK
 
 ---
