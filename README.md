@@ -2,7 +2,7 @@
 
 > **Iğdır Üniversitesi** | Bilgisayar Mühendisliği Bölümü  
 > Veri Yapıları II Final Projesi — 2025–2026 Bahar Dönemi  
-> **Öğrenci:** Mihat Bayram
+> **Öğrenci:** Nihat Bayram
 > **Öğretim Üyesi:** Prof. Dr. İhsan Ömür BUCAK
 
 ---
