@@ -30,6 +30,7 @@ Bu proje, **Veri Yapıları II** dersi kapsamında 5 farklı veri yapısının g
 
 ### Savunma Derinliği Mimarisi
 
+```
 ┌─────────────────────────────────────────────────────┐
 │                    SALDIRGAN                        │
 └──────────────────────┬──────────────────────────────┘
@@ -59,6 +60,7 @@ Bu proje, **Veri Yapıları II** dersi kapsamında 5 farklı veri yapısının g
 │   SOC Log Tarama        │
 └─────────────────────────┘
 
+```
 
 ---
 
